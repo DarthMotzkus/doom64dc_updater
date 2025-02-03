@@ -9,7 +9,7 @@ A Linux Bash .sh automation to run via Windows Subsystem Linux for update my loc
 
 # Instructions
 
-This assume you already build the project once, and works only as UPDATER to the latest release. Althoug... Here's a quick resumed guide.
+This assume you already build the project once, and works only as UPDATER to the latest release. Although... Here's a quick resumed guide.
 
 - Setup all dependencies from above first.
 - Remember to clone the [repo](https://github.com/jnmartin84/doom64-dc/) first and choose the branch of your likeness. It needs to be a branch with the KOS package provided by the author, or this program will not run properlly.
