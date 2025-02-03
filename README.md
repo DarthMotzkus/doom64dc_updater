@@ -1,4 +1,4 @@
-# doom64dc_updater in Linux Bashfor WSL
+# doom64dc_updater in Linux Bash for WSL
 A Linux Bash .sh automation to run via Windows Subsystem Linux for update my local files and compile the latest build of Doom 64 DC Port from the author [repo](https://github.com/jnmartin84/doom64-dc/).
 
 # Dependencies
