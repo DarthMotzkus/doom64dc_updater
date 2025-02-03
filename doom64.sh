@@ -3,7 +3,7 @@
 #Show commands when running
 set -x
 
-#clean folders, git pull the branch and make the project (it need KOS Toolchain already builded)
+#clean folders, git pull the branch and make the project (it need KOS Toolchain already compiled)
 cd /opt/toolchains/dc/
 rm -rf ./kos
 cd /home/richard/doom64-dc
